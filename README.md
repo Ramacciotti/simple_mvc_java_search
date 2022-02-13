@@ -1,2 +1,3 @@
-# busca_mvc
-Sistema de busca com SpringBoot e Estrutura MVC
+# Hello!
+
+This is a simple search engine with SpringBoot and MVC Framework.
